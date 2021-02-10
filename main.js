@@ -7,7 +7,7 @@ const getData = () => {
 fetch("https://covid-193.p.rapidapi.com/statistics?country=USA", {
 	"method": "GET",
 	"headers": {
-		"x-rapidapi-key": "7324fe6e1emsh732f421bef4b7ebp18f6cbjsn0e6874038028",
+		"x-rapidapi-key": "",
 		"x-rapidapi-host": "covid-193.p.rapidapi.com"
 	}
 })
